@@ -37,7 +37,7 @@ This project replicates the Netflix homepage UI with features like responsive de
 
 ## 🚀 How to Run
 1. Clone or download the project:
-   ```bash
+```bash
    git clone https://github.com/your-username/netflix-clone.git
 ````
 
